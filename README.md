@@ -1,4 +1,4 @@
 # Glitch-effect-on-CSS
 Only CSS - effect glitch
 
-- Hover to image to start the effect
+- Hover the image to start the effect
